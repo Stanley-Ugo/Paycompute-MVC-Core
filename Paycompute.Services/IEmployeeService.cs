@@ -6,7 +6,7 @@ using Paycompute.Entity;
 
 namespace Paycompute.Services
 {
-    interface IEmployeeService
+    public interface IEmployeeService
     {
         Task CreateAsync(Employee newEmployee);
         Employee GetById(int employeeId);
