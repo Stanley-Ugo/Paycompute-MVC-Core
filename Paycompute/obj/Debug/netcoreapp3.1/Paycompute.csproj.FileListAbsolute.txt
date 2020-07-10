@@ -160,9 +160,6 @@ C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Persiste
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csprojAssemblyReference.cache
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfoInputs.cache
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfo.cs
-C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
-C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
-C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cache
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cs
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.TagHelpers.input.cache
@@ -186,3 +183,10 @@ C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\staticwebassets\Pay
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.dll
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.pdb
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.genruntimeconfig.cache
+C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
