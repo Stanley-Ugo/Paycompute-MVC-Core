@@ -187,3 +187,6 @@ C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.AspNetCor
 C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
