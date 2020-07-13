@@ -8,7 +8,7 @@ using Paycompute.Persistence;
 
 namespace Paycompute.Services.Implementation
 {
-    class EmployeeService : IEmployeeService
+    public class EmployeeService : IEmployeeService
     {
         private readonly ApplicationDbContext context;
 

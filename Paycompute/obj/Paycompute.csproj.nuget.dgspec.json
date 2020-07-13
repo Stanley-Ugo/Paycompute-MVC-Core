@@ -267,6 +267,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.1.5, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[4.2.1, )"
             }
           },
           "imports": [
