@@ -190,3 +190,4 @@ C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bso
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
