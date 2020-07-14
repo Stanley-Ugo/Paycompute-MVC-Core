@@ -193,3 +193,5 @@ C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcAppli
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
