@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Paycompute.Models;
 using Paycompute.Services;
 using System;
 using System.Collections.Generic;
@@ -18,6 +19,21 @@ namespace Paycompute.Controllers
 
         public IActionResult Index()
         {
+            var payRecords = _payComputationService.GetAll().Select(pay => new PaymentRecordIndexViewModel
+            {
+                Id = pay.Id,
+                EmployeeId = pay.EmployeeId,
+                FullName = pay.FullName,
+                PayDate = pay.PayDate,
+                PayMonth = pay.PayMonth,
+                TaxYearId = pay.TaxYearId,
+                Year = _payComputationService.GetTaxYearById(pay.TaxYearId).YearOfTax,
+                TotalEarnings = pay.TotalEarnings,
+                TotalDeduction = pay.TotalDeduction,
+                NetPayment = pay.NetPayment,
+                Employee = pay.Employee
+            });
+
             return View();
         }
     }

@@ -11,7 +11,7 @@ namespace Paycompute.Models
     {
         public int Id { get; set; }
         public int EmployeeId { get; set; }
-        public Employee employee { get; set; }
+        public Employee Employee { get; set; }
 
         [Display(Name = "Name")]
         public string FullName { get; set; }
