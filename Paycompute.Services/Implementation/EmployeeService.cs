@@ -75,10 +75,14 @@ namespace Paycompute.Services.Implementation
             return studentLoanAmount;
         }
 
-        public decimal UnionFees(int Id)
+        public decimal UnionFees(int id)
         {
-            throw new NotImplementedException();
+            var employee = GetById(id);
+            var fees = employee.UnionMember == UnionMember.Yes ? 10m : 0m;
+
+            return fees;
         }
+
 
     }
 }
