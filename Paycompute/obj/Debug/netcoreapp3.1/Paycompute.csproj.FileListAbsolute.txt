@@ -196,3 +196,4 @@ C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employe
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Details.cshtml.g.cs
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs
+C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Razor\Views\Pay\Index.cshtml.g.cs
