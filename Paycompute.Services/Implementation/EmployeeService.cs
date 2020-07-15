@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Paycompute.Persistence;
+using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace Paycompute.Services.Implementation
 {
@@ -83,6 +84,13 @@ namespace Paycompute.Services.Implementation
             return fees;
         }
 
-
+        public IEnumerable<SelectListItem> GetAllEmployeesForPayroll()
+        {
+            return GetAll().Select(emp => new SelectListItem()
+            {
+                Text = emp.FullName,
+                Value = emp.Id.ToString()
+            });
+        }
     }
 }
