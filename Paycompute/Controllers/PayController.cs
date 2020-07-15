@@ -104,5 +104,11 @@ namespace Paycompute.Controllers
 
             return View();
         }
+
+        public IActionResult Detail(int id)
+        {
+
+            return View();
+        }
     }
 }
