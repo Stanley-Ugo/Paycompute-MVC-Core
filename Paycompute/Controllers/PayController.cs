@@ -34,6 +34,11 @@ namespace Paycompute.Controllers
                 Employee = pay.Employee
             });
 
+            return View(payRecords);
+        }
+
+        public IActionResult Create()
+        {
             return View();
         }
     }
