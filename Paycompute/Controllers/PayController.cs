@@ -66,7 +66,7 @@ namespace Paycompute.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Creat(PaymentRecordCreateViewModel model)
+        public async Task<IActionResult> Create(PaymentRecordCreateViewModel model)
         {
             if (ModelState.IsValid)
             {
@@ -105,7 +105,7 @@ namespace Paycompute.Controllers
             return View();
         }
 
-        public IActionResult Detail(int id)
+        public IActionResult Details(int id)
         {
             var paymentRecord = _payComputationService.GetById(id);
             if (paymentRecord == null )
