@@ -17,12 +17,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="WkHtmlToPdf\wkhtmltox-0.12.6-1.msvc2015-win64.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Paycompute.Entity\Paycompute.Entity.csproj" />
     <ProjectReference Include="..\Paycompute.Services\Paycompute.Services.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="WkHtmlToPdf\" />
     <Folder Include="wwwroot\images\employee\" />
   </ItemGroup>
 
