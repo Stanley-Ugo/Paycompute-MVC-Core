@@ -206,4 +206,5 @@ C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\RotativaCore.dll
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\PaycomputeApp\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
-C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\WkHtmlToPdf\wkhtmltox-0.12.6-1.msvc2015-win64.exe
+C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\WkHtmlToPdf\wkhtmltoimage.exe
+C:\Projects\PaycomputeApp\Paycompute\bin\Debug\netcoreapp3.1\WkHtmlToPdf\wkhtmltopdf.exe
