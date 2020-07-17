@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Paycompute.Persistence;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.EntityFrameworkCore;
 
 namespace Paycompute.Services.Implementation
 {
@@ -34,7 +35,7 @@ namespace Paycompute.Services.Implementation
             await context.SaveChangesAsync();
         }
 
-        public IEnumerable<Employee> GetAll() => context.Employees;
+        public IEnumerable<Employee> GetAll() => context.Employees.AsNoTracking().OrderBy(emp => emp.FullName);
 
         public async Task UpdateAsync(Employee employee)
         {
